@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.right {
+  float: right;
+}
+.Again {
+  width: 15pc;
+  height: 5pc;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 2pc;
+}
+.text {
+  border-bottom: 1pc solid white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 5pc;
+  text-align: center;
+}
+h1 {
+  position: relative;
+  bottom: 3pc;
+}
+.number {
+  border-radius: 0.5pc;
+  background-color: white;
+  width: 10pc;
+  height: 9pc;
+  color: black;
+  text-align: center;
+  font-size: 8pc;
+}
+div {
+  position: relative;
+  left: 55pc;
+  bottom: 5pc;
+}
+.outline {
+  width: 15pc;
+  height: 6pc;
+  background-color: black;
+  border: 0.2pc solid white;
+  color: white;
+  font-size: 5pc;
+}
+.button1 {
+  width: 14pc;
+  height: 4pc;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 2pc;
+}
+.left {
+  float: left;
+}
+.margin {
+  margin-left: 39pc;
+}
+.message {
+  font-size: 3pc;
+}
